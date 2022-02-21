@@ -38,7 +38,7 @@ Based on our analysis, we consider that the Company will face the folllowing as 
    - Engineer: 9,285 employees to retire / 296 potential mentors = ~32 new employees to be trained per mentor
    - Staff: 7,636 employees to retire / 418 potential mentors = ~19 new employees to be trained per mentor
 
-Based on the former, it seems to be a very large shortage of potential mentors to train the new generation, specially at Senior Engineer and Senior Staff positions. Management will either increase the number of potential in-house mentors by training younger candidates or approach external parties that help them retrain the new employees. 
+Based on the former, it seems to be a very large shortage of potential mentors to train the new generation, specially at Senior Engineer and Senior Staff positions. Management will either need to increase the number of potential in-house mentors by training younger candidates or approach external parties that help them retrain the new employees. Aggresive actions have to be taken soon.
 
 Below you find an image of our code and corresponding outputs that support the calculations used in the Summary.
 

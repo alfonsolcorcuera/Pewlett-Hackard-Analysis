@@ -42,7 +42,7 @@ Based on the former, it seems to be a very large shortage of potential mentors t
 
 Below you find an image of our code and corresponding outputs that support the calculations used in the Summary.
 
-SQL Code:
+SQL Code (for more detail refer to the Queries folder):
 
 ![](Code.PNG)
 

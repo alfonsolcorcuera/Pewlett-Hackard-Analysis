@@ -42,8 +42,14 @@ Based on the former, it seems to be a very large shortage of potential mentors t
 
 Below you find an image of our code and corresponding outputs that support the calculations used in the Summary.
 
+SQL Code:
+
 ![](Code.PNG)
 
+Employees about to retire by position:
+
 ![](Retiring.PNG)
+
+Employees eligible to participate in the mentorship program by position:
 
 ![](Mentoring.PNG)
